@@ -23,6 +23,6 @@ Tentando aprender alguma coisa por [aqui!](https://github.com/thalesrz)
 
 ---
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesrz&show_icons=true&theme=nightowl&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=thalesrz&show_icons=true&show_icons=true&theme=nightowl&count_private=true"/>
+<img height = "160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesrz&show_icons=true&theme=nightowl&count_private=true"/>
+<img height = "160em" src="https://github-readme-stats.vercel.app/api?username=thalesrz&show_icons=true&show_icons=true&theme=nightowl&count_private=true"/>
 </div>
