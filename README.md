@@ -3,9 +3,9 @@
 # Seja bem vindo ao meu GitHub!🙌
 Tentando aprender alguma coisa por [aqui!](https://github.com/thalesrz)
 
-- 🧑‍🔬 Engenheiro Civil
-- 💻 Entusiasta (hauheahue)
-- Isso aqui ta parecendo um curriculo😂
+- 🧑‍🔬 Engenheiro civil em formação
+  
+
 
 ---
 
